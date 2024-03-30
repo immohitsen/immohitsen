@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/f6/84/6c/f6846c6a6d128ac0106eea3a85a0125a.gif)](https://github.com/immohitsen)
 <h1 align="center">Hi 👋, I'm Mohit Sen</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
