@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/immohitsen" target="blank"><img src="https://img.shields.io/twitter/follow/immohitsen?logo=twitter&style=for-the-badge" alt="immohitsen" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **C++ , ReactJs or Web Dev**
+- 💬 Ask me about **C++ , MERN or React Native**
 
 - 📫 How to reach me **senmohit9005@gmail.com**
 
-- ⚡ Fun fact **I'm delusional**
+- ⚡ Fun fact **I have ADHD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
